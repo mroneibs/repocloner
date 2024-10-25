@@ -12,7 +12,7 @@ Features
 Before running RepoCloner, make sure you have the following installed:**
 sudo apt-get install git jq figlet
 
-**How to Use**: chmod +x rc.sh
+chmod +x rc.sh
 
-
+**How to Use**
 **Run**: ./rc.sh or bash rc.sh
